@@ -201,7 +201,7 @@
       </activation>
       <modules>
         <module>UI</module>
-        <module>UI-tests</module>
+<!--         <module>UI-tests</module> -->
       </modules>
       <build>
         <pluginManagement>
